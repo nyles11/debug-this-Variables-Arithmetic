@@ -1,5 +1,6 @@
 public class DebugProg {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         double x, y;
 
         x = 3.1415;
